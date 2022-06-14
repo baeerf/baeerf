@@ -1,7 +1,5 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Felipe Baer and my nickname is "Baer", because of my last name!
 
-## About me
+## Welcome to my github profile, learn more about me
 
 ### I'm Brazilian, I'm 16 years old and I started in the development area when I was 13 years old.
 ### I started on the backend and after 1 year I started on the frontend where I continue to this day.
